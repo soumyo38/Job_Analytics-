@@ -1,1 +1,2 @@
-To run this project copy the code just paste in vs code and  click on Go live Button
+Job Analytics is my Data anlytics Internship project.I have created this Dashboard using Tableau.
+To run this project.copy and paste in code editor and run it.
